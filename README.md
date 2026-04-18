@@ -48,6 +48,40 @@ Dashboard screenshots from the Power BI report:
 ![Dashboard Screenshot 1](Dashboard%20Screenshot%201.png)
 ![Dashboard Screenshot 2](Dashboard%20Screenshot%202.png)
 
+## Tableau Dashboard
+
+This repository also includes a Tableau-based sales dashboard analysis designed to present business performance through interactive visual storytelling. The Tableau workbook focuses on helping users evaluate overall sales performance, compare category and segment contributions, identify high-performing products, and explore geographic and time-based patterns in the data.
+
+### Tableau Project Overview
+
+The Tableau Sales Dashboard Analysis project provides a clean and interactive view of supermarket sales data for business reporting and exploratory analysis. It is intended to support quick decision-making by combining summary KPIs with deeper views across products, customer segments, locations, and sales trends.
+
+### Tools Used
+
+- Tableau
+
+### Key Features
+
+- KPIs to highlight core sales performance metrics at a glance
+- Category analysis to compare the contribution of major product groups
+- Segment analysis to evaluate performance across customer segments
+- Top products view to identify the highest-performing items
+- Map visualization to explore sales distribution by location
+- Trend analysis to track performance over time
+- Heatmap view to quickly identify high- and low-performing areas
+
+### Tableau Workbook
+
+The Tableau packaged workbook included in this repository is `Sales Data Analysis (Tableau).twbx`.
+
+### Screenshots
+
+Add Tableau dashboard screenshots here:
+
+![Tableau Dashboard Overview](path/to/tableau-dashboard-overview.png)
+![Tableau Category Analysis](path/to/tableau-category-analysis.png)
+![Tableau Map and Heatmap](path/to/tableau-map-and-heatmap.png)
+
 ## How to Use
 
 1. Open Power BI Desktop on your system.
