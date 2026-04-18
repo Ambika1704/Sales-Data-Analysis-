@@ -46,6 +46,8 @@ The dashboard helps users gain insights such as:
 Dashboard screenshots from the Power BI report:
 
 ![Dashboard Screenshot 1](Dashboard%20Screenshot%201.png)
+<br>
+
 ![Dashboard Screenshot 2](Dashboard%20Screenshot%202.png)
 
 ## Tableau Dashboard
@@ -76,9 +78,12 @@ The Tableau packaged workbook included in this repository is `Sales Data Analysi
 
 ### Screenshots
 
-Add Tableau dashboard screenshots here:
+Tableau dashboard screenshot:
 
-![Tableau Dashboard Overview](path/to/tableau-dashboard-overview.png)
+![Tableau Dashboard Overview](Tableau%20Dashboard%20Overview.png)
+
+Additional Tableau screenshots can be added here:
+
 ![Tableau Category Analysis](path/to/tableau-category-analysis.png)
 ![Tableau Map and Heatmap](path/to/tableau-map-and-heatmap.png)
 
