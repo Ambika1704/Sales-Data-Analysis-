@@ -82,11 +82,6 @@ Tableau dashboard screenshot:
 
 ![Tableau Dashboard Overview](Tableau%20Dashboard%20Overview.png)
 
-Additional Tableau screenshots can be added here:
-
-![Tableau Category Analysis](path/to/tableau-category-analysis.png)
-![Tableau Map and Heatmap](path/to/tableau-map-and-heatmap.png)
-
 ## How to Use
 
 1. Open Power BI Desktop on your system.
