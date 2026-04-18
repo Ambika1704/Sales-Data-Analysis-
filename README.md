@@ -43,10 +43,10 @@ The dashboard helps users gain insights such as:
 
 ## Screenshots
 
-Add dashboard screenshots here after exporting images from Power BI.
+Dashboard screenshots from the Power BI report:
 
-![Dashboard Screenshot 1](path/to/screenshot1.png)
-![Dashboard Screenshot 2](path/to/screenshot2.png)
+![Dashboard Screenshot 1](Dashboard%20Screenshot%201.png)
+![Dashboard Screenshot 2](Dashboard%20Screenshot%202.png)
 
 ## How to Use
 
