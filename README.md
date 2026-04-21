@@ -2,7 +2,7 @@
 
 ## Description
 
-This Power BI project presents a sales dashboard built using a supermarket sales dataset. The dashboard is designed to help users understand sales performance, identify business trends, and compare results across products, customer segments, and regions.
+This Power BI project presents a sales dashboard built using a supermarket sales dataset. The dashboard is designed to help users understand sales performance, identify business trends, and compare results across products, customer segments, and regions
 
 ## Features
 
